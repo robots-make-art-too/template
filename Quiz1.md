@@ -95,6 +95,7 @@ The steps above must be completed before you can continue.
 ## Final Mission
 
 1. [] Copy any content into the `Quizzes\Quiz1` folder by adding it _directly_ to the `INFO.md` file
+   - THIS IS THE SHEET 6 ON GOOGLE DOC -2
    - There are other `INFO.md` files. Don't add your content anywhere else.
 
 2. [] Read the `README.md` from the `top` directory of your new repo
