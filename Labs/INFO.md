@@ -17,7 +17,7 @@ Have you already started working on `Lab 1`?
    - add _ALL_ that content to your new `lens-for-the-internet` folder
      - follow the format that exists here already
        - place your icon images in the `img/` folder
-     - if you have multiple `.js` files
+     - if you have multiple `.js` files:
        - make a new folder `js/`
        - move your `JavaScript` files into `js/`
        - (you might need to update your documents to reflect the new directory structure)

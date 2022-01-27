@@ -67,7 +67,7 @@ The steps above must be completed before you can continue.
 
 1. [] clone the `instructor's` _Quiz 1 template_ repo to your local drive
 
-   ![one](/img/clone_instr.png "Step 1: Clone the template repo")
+   ![one](/img/clone-instr.png "Step 1: Clone the template repo")
 
 2. [] clone your _new remote_ `firstname_lastname` repo to your local drive
 
@@ -81,15 +81,52 @@ The steps above must be completed before you can continue.
 
    ![four](/img/send-remote.png "Step 4: Push to remote")
 
----
-
 ## Back to Remote
 
-1. [] Add _all_ `TA's` and the `instructor` as members to your private repo
+1. [] Verify your repo has the correct content by selecting it and taking a screenshot of the main directory tree
+2. [] Add _all_ `TA's` and the `instructor` as members to your private repo
    - you will probably have to go to the repo page
    - there are options on the left-hand side for membership
-
-2. [] Tell your `instructor` when you have completed Step 1. You will be given access to your final mission.
+3. [] Tell your `instructor` when you have completed Step 1. You will be given access to your final mission.
       - [] I have access.
 
 ---
+
+## Final Mission
+
+1. [] Copy any content into the `Quizzes\Quiz1` folder by adding it _directly_ to the `INFO.md` file
+   - There are other `INFO.md` files. Don't add your content anywhere else.
+
+2. [] Read the `README.md` from the `top` directory of your new repo
+   - [] Follow the instructions
+   - [] and then come back here
+
+3. [] If you have speakers, turn them on and reduce the sound. (Don't hurt your ears!)
+
+4. Open `sketch.js`
+
+5. Open `index.html` in a browser. Observe and listen when you interact.
+
+6. Using the given `3 pieces of information` you are to alter this code
+   - nothing complex, or as complex as you want
+   - use any resources - but you don't have to!
+   - you can ask `prof` questions but you only get _one good_ `freebie`
+
+7. the finished `art-work` must align with your `information`
+   - [] I used (enter your `function1`) HERE:
+   - [] I used (enter your `function2`) HERE:
+   - [] I had (enter your `emotion`) HERE:
+
+---
+
+## Submission
+
+1. [] Briefly update the `README.md` in the `Quiz1` folder with the technical information you completed and any instructions on how to run and view your `art-work`
+
+2. [] Briefly update the `STATEMENT.md` in the `Quiz1` folder with a thoughtful aesthetic response to how your technical choices reflect the emotion you were give.
+
+3. [] Save all your work. Then `git add`, `git commit (with message)`, and `git push` your final form to your `remote` repo
+
+---
+
+### THE END

@@ -23,7 +23,7 @@ print(random.random())
 
 
 
-# use the name lowercase 
+# use the name lowercase
 # match to file line output
 # assign random seed as file line number
 # random seed 3x -> extract 3 functions
@@ -35,9 +35,9 @@ print(random.random())
 # add harry as a team member
 
 
-https://learningsolutionsmag.com/articles/coding-sound-with-javascript-beginner-s-guide
+# https://learningsolutionsmag.com/articles/coding-sound-with-javascript-beginner-s-guide
 
-https://medium.com/@mitchellwstewart_70614/hearing-code-with-tone-js-9e81ded14916
+# https://medium.com/@mitchellwstewart_70614/hearing-code-with-tone-js-9e81ded14916
 
-tone.js
-p5.js
+# tone.js
+# p5.js
