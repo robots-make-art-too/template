@@ -1,5 +1,11 @@
 # What do I do here?
 
+## First Step
+
+[] Make three new folders for `Quiz2`, `Quiz3`, `Quiz4`
+
+---
+
 ## Quiz 1
 
 The content I received from `prof` was:
