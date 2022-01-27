@@ -1,18 +1,20 @@
+// sound
 let loopBeat;
 let bassSynth, cymbalSynth;
 let counter;
 
+// image
 const barWidth = 20;
 let lastBar = -1;
 
 function setup() {
-  
+  // image
   createCanvas(720, 400);
   colorMode(HSB, height, height, height);
   noStroke();
   background(0);
 
-
+  // sound
   counter = 0;
 
   bassSynth = new Tone.MembraneSynth().toDestination();
@@ -40,7 +42,7 @@ function song(time) {
   if (counter % 4 === 0) {
     bassSynth.triggerAttackRelease("c1", "8n", time, 1);
   }
-    
+
   if (counter % 4 !== 1) {
     if (counter === 3 || counter === 12) {
         cymbalSynth.envelope.decay = 0.5;
@@ -53,7 +55,7 @@ function song(time) {
   // console.log(counter);
 }
 
-
+// image
 function draw() {
   let whichBar = mouseX / barWidth;
   if (whichBar !== lastBar) {
