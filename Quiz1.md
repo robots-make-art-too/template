@@ -2,6 +2,12 @@
 
 ---
 
+UPDATE: Where to open an `.md` file? How to copy the text? These are things you have done. I have done. We have done.
+- Use a `text editor`, or an `IDE`, or a `code editor`
+- RAW text off repo file is easy to copy...
+
+---
+
 ## Initial Checks
 
 Once you complete each step, check it complete.
@@ -17,6 +23,7 @@ Once you complete each step, check it complete.
 
    > save your screenshots for later
    > `![image](/img/image.png "Image info")`
+   > hint: that was the format for including an image in an `.md` file...
 
 2. Say Hello:
    - [] find the `#Quiz-1` channel on the `EECS 17xx Discord` server
@@ -41,9 +48,9 @@ The steps above must be completed before you can continue.
 
 1. [] Find your way to our `GitHub` organization page [robots-make-art-too](https://github.com/robots-make-art-too)
    - [] Locate the `Teams` tab
-   - [] request to join your _Lab #_ team
+   - [] request to join your _Lab #_ team (I am the _most_ important)
    - [] request to join your _Lab TAs_ team
-   - [] request to join the _Quiz 1_ team
+   - [] request to join the _Quiz 1_ team (no longer required as we made the template repo public. for now)
 
    > let _your instructor know_ when you have sent the request: *SO IT CAN BE APPROVED ASAP*
 
@@ -56,6 +63,7 @@ The steps above must be completed before you can continue.
 3. Use the following criteria
    - [] firstname_lastname
    - [] private
+   - [] README.md
    - [] .git Node
    - [] MIT license
 
@@ -65,7 +73,28 @@ The steps above must be completed before you can continue.
 
 ## Local
 
-1. [] clone the `instructor's` _Quiz 1 template_ repo to your local drive
+---
+---
+UPDATE: This section needs to be _so easy for you_ that it was useless to ask a MC Quiz on it if _you can't repeat it IRL_
+
+>
+>> R - E - P - E - A - T  me and any other `git stuff` until you can clone, copy, move, fetch, merge, branch, switch, create repo's local and remote in your sleep, in another language, jumping from a plane, swimming with sharks. It is a skill you _need_... ASK for 1-on-1 help. We can do a group `git` workshop.
+>
+
+- you will probably need to use common sense. 
+- you will probably need to just decide what works best for you.
+- you will probably ask questions that you know the answer to.
+- you will need to know `git`.
+- you will need to be _comfortable_ with `git`
+- `git happens` to me too.
+
+---
+---
+
+1. [] clone the `instructor's` _template_ repo to your local drive (it could be under format Firstname_Lastname)
+   - you _need_ to get the link _yourself_ go copy it from the repo
+     - UPDATE: dl the zip, unpack if this is easier. But don't think you won't have to _really_ clone something at some point 
+     - and we are using the `GUI` here, not the `CLI` (remember what those are?)
 
    ![one](/img/clone-instr.png "Step 1: Clone the template repo")
 
@@ -73,7 +102,7 @@ The steps above must be completed before you can continue.
 
    ![two](/img/clone_your.png "Step 2: Clone the template repo")
 
-3. [] Copy _all_ the files and folders _as is_ from the  `Quiz 1 template` repo to your `new local` repo from step 2.
+3. [] Copy _all_ the files and folders _as is_ from the  `Quiz 1` `template` repo to your `new local` repo from step 2.
 
    ![three](/img/copy.png "Step 3: Copy the template repo")
 
@@ -81,13 +110,18 @@ The steps above must be completed before you can continue.
 
    ![four](/img/send-remote.png "Step 4: Push to remote")
 
+---
+
 ## Back to Remote
 
 1. [] Verify your repo has the correct content by selecting it and taking a screenshot of the main directory tree
-2. [] Add _all_ `TA's` and the `instructor` as members to your private repo
+   - UPDATE: I already can tell this is not happening for some of you.
+     - This is why `screenshots` are useful for _me_ to see what _you_ see.
+3. [] Add _all_ `TA's` and the `instructor` as members to your private repo
    - you will probably have to go to the repo page
    - there are options on the left-hand side for membership
-3. [] Tell your `instructor` when you have completed Step 1. You will be given access to your final mission.
+     - UPDATE: there is a members option at the mid-top/right that lets you give access to others
+4. [] Tell your `instructor` when you have completed Step 1. You will be given access to your final mission.
       - [] I have access.
 
 ---
@@ -95,10 +129,13 @@ The steps above must be completed before you can continue.
 ## Final Mission
 
 1. [] Copy any content into the `Quizzes\Quiz1` folder by adding it _directly_ to the `INFO.md` file
-   - THIS IS THE SHEET 6 ON GOOGLE DOC -2
+   - THIS IS THE SHEET 6 ON GOOGLE DOC
+     - UPDATE: tab is labeled `Final Mission`: 
+       - pick 2 functions from the left column of 520+ rows (keep scrolling!) 
+       - pick 1 context/emotion from the right column
    - There are other `INFO.md` files. Don't add your content anywhere else.
 
-2. [] Read the `README.md` from the `top` directory of your new repo
+2. [] Read the `README.md` from the `top` directory of your new repo (`top` is our `root`)
    - [] Follow the instructions
    - [] and then come back here
 
