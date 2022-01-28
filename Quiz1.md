@@ -1,14 +1,17 @@
 # EECS 1720 Quiz 1 - January 27 2022
 
 ---
+SAVE THIS FILE (and the images if you want to see them in the local file) TO YOUR COMPUTER. OPEN IT IN SUBLIME, VISUAL STUDIO CODE, OR SOMETHING ELSE THAT CAN READ `.md` FILES
 
-UPDATE: Where to open an `.md` file? How to copy the text? These are things you have done. I have done. We have done.
+(UPDATE: did anyone who asked how to open an `.md` file first read the sentence right there. Right above this one. You can read it now. This open page was my screenshare during lecture (which was all quiz time)!)
+
+---
+
+UPDATE (again): Where to open an `.md` file? How to copy the text? These are things you have done. I have done. We have done.
 - Use a `text editor`, or an `IDE`, or a `code editor`
 - RAW text off repo file is easy to copy...
 
 ---
-
-## Initial Checks
 
 Once you complete each step, check it complete.
 
@@ -20,10 +23,13 @@ Once you complete each step, check it complete.
      - are you registered? if `no`: give your email HERE:
    - [] at our EECS 1720 department [website](https://www.eecs.yorku.ca/course_archive/2021-22/W/1720/)
    - [] `Page 4` of the updated course syllabus
-
-   > save your screenshots for later
-   > `![image](/img/image.png "Image info")`
-   > hint: that was the format for including an image in an `.md` file...
+   
+     > save your screenshots for later
+     >
+     > `![image](/img/image.png "Image info")` <- this is a way to include images in `.md` files
+     >
+     > UPDATE: if you are asking where to save the images.. I don't know? Where do you usually save any images you save? Have you ever taken a screenshot? Does it save automatically? These are the deep questions of life we need to know. If you think I want to see them, consider keeping them handy for a location that I will have access to. We are on GitHub so... maybe a repo? Wait and see. (or delete them and live on the edge - your choice!)
+     >
 
 2. Say Hello:
    - [] find the `#Quiz-1` channel on the `EECS 17xx Discord` server
@@ -46,13 +52,17 @@ Once you complete each step, check it complete.
 
 The steps above must be completed before you can continue.
 
+Why? We have been trying to complete them for ~~two~~ almost three weeks. Time's up! Also, I need your `GitHub  URL` put into a file, in a location, that I can restrict public access to, but to which you have access. That link is what gets you into our `team area` of `robots-make-art-too`
+- UPDATE: We have had to _reintroduce_ the open to all 8,000,000,000 people on Earth google link.
+  - Last chance to get in and record your info happening soon cause that link won't stay up for long. 
+
 1. [] Find your way to our `GitHub` organization page [robots-make-art-too](https://github.com/robots-make-art-too)
    - [] Locate the `Teams` tab
    - [] request to join your _Lab #_ team (I am the _most_ important)
-   - [] request to join your _Lab TAs_ team
+   - [] request to join your _Lab TAs_ team (you will probably _not_ get a confirmation of this)
    - [] request to join the _Quiz 1_ team (no longer required as we made the template repo public. for now)
 
-   > let _your instructor know_ when you have sent the request: *SO IT CAN BE APPROVED ASAP*
+   > let _your instructor know_ when you have sent the `Lab #` request: *SO IT CAN BE APPROVED ASAP*
 
    ![first](/img/join-team.png "Step 1: Join the team")
 
