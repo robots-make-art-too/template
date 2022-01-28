@@ -1,6 +1,6 @@
 # Sarah_Vollmer
 
-example of submission format
+example of submission format (psst: I am the `README.md` in the `top` directory here a.k.a. `root` for this repo
 
 ## What do I do here?
 
@@ -13,6 +13,6 @@ example of submission format
    - [] this is an empty checkbox
    - [x] this is not
 
-    [] 100_Days INFO.md
-    [] Labs INFO.md
-    [] Quizzes INFO.md
+     * [] 100_Days INFO.md
+     * [] Labs INFO.md
+     * [] Quizzes INFO.md
