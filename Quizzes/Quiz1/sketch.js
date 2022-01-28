@@ -8,6 +8,7 @@ const barWidth = 20;
 let lastBar = -1;
 
 function setup() {
+
   // image
   createCanvas(720, 400);
   colorMode(HSB, height, height, height);
@@ -38,6 +39,7 @@ function setup() {
   loopBeat.start(0);
 }
 
+// sound
 function song(time) {
   if (counter % 4 === 0) {
     bassSynth.triggerAttackRelease("c1", "8n", time, 1);
