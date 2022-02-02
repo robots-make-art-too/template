@@ -1,4 +1,4 @@
-# FIRS_LAST
+# FIRST_LAST
 
 example of submission format (psst: I am the `README.md` in the `top` directory here a.k.a. `root` for this repo
 
